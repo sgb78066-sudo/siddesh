@@ -1,0 +1,5 @@
+{
+  "name": "EcoTrack AI - Smart Waste Management",
+  "description": "An AI-powered dashboard for monitoring waste bins, optimizing collection routes, and predicting overflow events.",
+  "requestFramePermissions": []
+}
